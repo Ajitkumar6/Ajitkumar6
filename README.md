@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajitkumar6
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...Html,Css,Javascript,Bootstrap,Pyhton,Django,MySql,Angular,AWS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with ...Html,Css,Javascript,React,Bootstrap,NodeJS,Python,Django,MongoDB,MySql.
+- 💞️ I’m looking to collaborate on ...Web development projects
 - 📫 How to reach me ...ajitcareerit@gmail.com
 
 <!---
