@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajitkumar6
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently working with ...Html,Css,Javascript,React,Bootstrap,NodeJS,Python,Django,MongoDB,MySql.
+- 🌱 I’m currently working with ...Html,Css,Javascript,React,Redux Toolkit,Bootstrap,NodeJS,Python,Django,MongoDB,MySql and CosmDB.
 - 💞️ I’m looking to collaborate on ...Web development projects
 - 📫 How to reach me ...ajitcareerit@gmail.com
 
